@@ -44,6 +44,7 @@ Real-time user presence and cursor tracking
 Improved UI/UX for mobile responsiveness
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/b7b80a36-ca72-4af4-a871-79176d02e17a)
+![Image](https://github.com/user-attachments/assets/0a6260b6-1f0c-4112-88a2-7fca7b87fd1e)
 
 
