@@ -1,0 +1,38 @@
+.editor-container {
+  padding: 20px;
+  background-color: #fff;
+  color: #000;
+  height: 100vh;
+  transition: all 0.3s ease;
+}
+
+.editor-container.dark {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+textarea {
+  width: 100%;
+  height: 70vh;
+  font-size: 16px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: inherit;
+  color: inherit;
+}
+.presence ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.presence li {
+  font-size: 12px;
+}

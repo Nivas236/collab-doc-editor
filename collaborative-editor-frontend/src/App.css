@@ -1,0 +1,29 @@
+.editor-container {
+  height: 400px;
+  margin: 20px;
+}
+
+.user-bar {
+  background: #f0f0f0;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.user-bar h3 {
+  margin-bottom: 5px;
+}
+
+.user-bar ul {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.user-bar li {
+  background-color: #d1e7dd;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
